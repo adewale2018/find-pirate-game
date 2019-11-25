@@ -1,0 +1,15 @@
+body {
+  background-color: #496075;
+  color: #c2f1db;
+}
+img {
+  margin: 10px;
+  width: 250px;
+  height: 150px;
+}
+img:hover {
+  cursor: pointer;
+}
+.img-button {
+  border: #c2f1db 3px outset;
+}
